@@ -1,0 +1,22 @@
+.input-form {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-form h1 {
+  color: #555555;
+  color: #555555;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  font-size: 13px;
+  border-radius: 4px;
+}
+
+/*# sourceMappingURL=login.css.map */

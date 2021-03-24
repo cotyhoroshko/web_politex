@@ -1,0 +1,18 @@
+.profile-info {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+
+  .username {
+    font-family: Arial, serif;
+    font-size: 25px;
+    margin: 15px 10px;
+  }
+
+  .bio {
+    margin-bottom: auto;
+    margin-top: 10%;
+    margin-right: 15%;
+  }
+
+}
