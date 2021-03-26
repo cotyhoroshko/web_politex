@@ -1,0 +1,21 @@
+.recommendation .rec-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.recommendation .rec-title {
+  padding-left: 20px;
+}
+
+.article {
+  margin: 0;
+  padding: 0 25px;
+}
+.article .article-topic {
+  text-transform: uppercase;
+}
+.article a {
+  text-decoration: none;
+  color: #555555;
+}
+
+/*# sourceMappingURL=article.css.map */
